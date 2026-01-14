@@ -98,7 +98,3 @@ Muhammad Naeem (and collaborators listed in the paper)
 
 ---
 
-# License
-
-Add a license if you plan to release this publicly (e.g., MIT or Apache-2.0).  
-If this repository is for internal/research use only, you can keep it without a license or mark it as proprietary.
